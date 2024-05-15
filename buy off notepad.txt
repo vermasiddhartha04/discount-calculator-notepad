@@ -1,0 +1,1 @@
+Discount Amount=Original Price×( Discount Percentage/100 )
